@@ -1,3 +1,10 @@
+/**
+ * Drone Service Class
+ * This contains all the service related logics.
+ *
+ * @author  pushpendra
+ * @version 1.0
+ */
 package com.pushpendra.dronemedication.service;
 
 import com.pushpendra.dronemedication.entity.Drone;
