@@ -1,3 +1,10 @@
+/**
+ * Medication Service Class
+ * This contains all the servic level methods.
+ *
+ * @author  pushpendra
+ * @version 1.0
+ */
 package com.pushpendra.dronemedication.service;
 
 import com.pushpendra.dronemedication.entity.Medication;
